@@ -19,6 +19,7 @@ com.iamdenny.links = jindo.$Class({
         this._aLink['Facebook'] = 'http://goo.gl/t87Fy';
         this._aLink['Google+'] = 'http://goo.gl/Atc8U';
         this._aLink['Twitter'] = 'http://goo.gl/TMWBe';
+        this._aLink['DNSEver'] = 'http://www.dnsever.com';
     },
     
     showLinks : function(){
